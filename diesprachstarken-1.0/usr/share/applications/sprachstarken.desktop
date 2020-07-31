@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Sprachstarken
+GenericName=Sprachstarken
+Comment="Übungen Deusch"
+Keywords="lp21 deutsch"
+Icon=sprachstarken.png
+Exec=/usr/share/bin/webapps http://localhost:8000/sprachstarken/index.html
+Terminal=false
+Categories=Education

@@ -1,0 +1,16 @@
+diesprachstarken (1.0-3) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * new build
+  * new repo
+  * first commit
+  * first build
+
+
+ -- Basil Stotz <stotz.basil@stretch-SEm1vo53>  Fri, 31 Jul 2020 11:39:28 +0200
+
+diesprachstarken (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Sat, 31 Mar 2018 14:52:02 +0200

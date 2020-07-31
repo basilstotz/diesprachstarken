@@ -1,0 +1,4 @@
+cds
+*.deb
+diesprachstarken_*
+usr/share/prop/sprachstarken/*
