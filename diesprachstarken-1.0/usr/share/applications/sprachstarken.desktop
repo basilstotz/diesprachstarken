@@ -6,6 +6,6 @@ GenericName=Sprachstarken
 Comment="Übungen Deusch"
 Keywords="lp21 deutsch"
 Icon=sprachstarken.png
-Exec=/usr/share/bin/webapps http://localhost:8000/sprachstarken/index.html
+Exec=/usr/share/bin/webapps file:///opt/sprachstarken/index.html
 Terminal=false
 Categories=Education
